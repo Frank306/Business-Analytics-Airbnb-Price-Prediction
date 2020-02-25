@@ -9,4 +9,4 @@ The data was obtained from Inside Airbnb, an independent, non-commercial website
   
   •	Reservation Details: Attributes such as cancellation policies, pricing for various time frames and availability provide details on the reservations for the listings. 
   
-The dataset in total has 48,864 data points, with 106 variables - 105 features (as described in Table 1) and a target numeric variable. 
+The dataset in total has 48,864 data points, with 106 variables - 105 features and a target numeric variable. 
